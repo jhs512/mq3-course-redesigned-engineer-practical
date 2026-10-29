@@ -15,334 +15,374 @@
       "id": "lsn_69976fe7-95f7-460a-8e2b-31ba2c7a5b88",
       "title": "C 값과 대입을 순서대로 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-start",
-      "revision": "engineer-c-start-5",
-      "sha256": "99a383272ff8d632bba7f6df98064eed58361725a6b6315124b871d422f6205b",
+      "revision": "engineer-c-start-6",
+      "sha256": "fd40a51007648ac348fa8697e92b88d2c4d726d8def1d1e0849d412bfc42ad8d",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_403cbc4b-4f0b-45f6-b4ba-8e4e237d2f5d"
     },
     {
       "id": "lsn_91e07ae3-8a11-4227-976c-d55f9f77b56b",
       "title": "C 연산과 조건을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-conditions",
-      "revision": "engineer-c-conditions-5",
-      "sha256": "3f4cedc69c4e235527c3b7820fff2acc6cf9e5637ff5b1e7b3cb4104189b4203",
+      "revision": "engineer-c-conditions-6",
+      "sha256": "a5d4f10b700e1fec1a0b82b2f1e55c45fd98d2480de465ff11dbc4e6859b4f7d",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_dc7e47b4-96cc-49e9-9865-af75a871cc94"
     },
     {
       "id": "lsn_69e3bf2f-5ddb-4dce-8def-4b022fc4b7b7",
       "title": "C 반복과 배열을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-arrays",
-      "revision": "engineer-c-arrays-5",
-      "sha256": "a70f4f12c7a9e84b703203050e4817b6a7791b9c009addc99b9406b3b65bf62d",
+      "revision": "engineer-c-arrays-6",
+      "sha256": "23e2ccdf582e25de2a491a9b91bd0ec093d09ef5695c3c8bbdecbf14fe8a2280",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_23473fd3-7d92-4ed4-bcb7-382927ce49c1"
     },
     {
       "id": "lsn_8d44ada6-23ef-45cf-8fd1-17722c8b5e29",
       "title": "C 함수와 재귀를 따라가요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-functions",
-      "revision": "engineer-c-functions-5",
-      "sha256": "272879083f1f4f63a3278800c22dfad9cbef9f639593e4d8fd44272522232bf8",
+      "revision": "engineer-c-functions-6",
+      "sha256": "af5d25527088af0d4380d0d3fed7cdd538e2a601b3bd417b8bca9b4bb78109ea",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_dba636c3-ea11-4e6d-9eca-5d3006fb7b12"
     },
     {
       "id": "lsn_ecdcead6-85ab-4301-acf9-3bd8f406c8d0",
       "title": "C · 주소와 가리키는 값을 나눠 봐요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-pointers",
-      "revision": "engineer-c-pointers-5",
-      "sha256": "ad33ad673f6fbfeead77415379435c9088ab5fbd8ac34f794e56e41fdb4e993d",
+      "revision": "engineer-c-pointers-6",
+      "sha256": "cd7aa1706688d658d47180d3b26fcc5dba2b86b8fe62f74929ec83b1aaef7719",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_72d91c6d-4814-4b28-90c8-92f78ba9f667"
     },
     {
       "id": "lsn_f176fef6-0c01-45d9-8497-41c416bfb855",
       "title": "C · 다중 포인터의 층을 따라가요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-double-pointers",
-      "revision": "engineer-c-double-pointers-5",
-      "sha256": "06429cbd61b21ee8b5b6a32fb96651f7440b99ab49dbd1fe303ef95daa00b716",
+      "revision": "engineer-c-double-pointers-6",
+      "sha256": "24b7dcedee0cb8397892bb1c06061760d7acfdeb3250c5e34275212f419b7c62",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_91b12cbe-e1be-4225-a7da-ff05510ff2a4"
     },
     {
       "id": "lsn_e6dd4cd2-76fd-478a-9949-e2d47510286a",
       "title": "C · 구조체와 계산 규칙을 골라요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-structures",
-      "revision": "engineer-c-structures-5",
-      "sha256": "a7446b3ba10d636c7d914196c48ab990ed02120b87a9f898d37c5b8d601e9aa7",
+      "revision": "engineer-c-structures-6",
+      "sha256": "c558ab2a7c540e324a95a4388db2679ce6fbd83ca1e6ccd950827b84a3eb009b",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_9be10228-3f66-4600-876e-589546f4a886"
     },
     {
       "id": "lsn_e4c42aec-3d84-4fb3-b9b1-a229b027bd5a",
       "title": "Java · 재고 계산의 실행 순서를 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-java-flow",
-      "revision": "engineer-java-flow-5",
-      "sha256": "ba35785a32e1475fa65ecbc043d83a210bf9beffabbad876b7fa86682a70bcc7",
+      "revision": "engineer-java-flow-6",
+      "sha256": "0dcca7645f515fa9087cead60d60437675d22c6e9685c0d5dd94b09fee7a9620",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_81d6934e-8cf9-47b5-bf45-4ae4beb83506"
     },
     {
       "id": "lsn_fc70c0c4-6f29-4f25-aed8-9af6dc4a68ea",
       "title": "Java · 같은 객체와 다른 이름을 구별해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-java-references",
-      "revision": "engineer-java-references-4",
-      "sha256": "957772a7c617788f9bcdbd38c2285742a3278e8cd2b1ec3f7b2440d29caed1e9",
+      "revision": "engineer-java-references-5",
+      "sha256": "40b151ae96e48336c5631646169f9a0ab4db5b29a5cbad8cf23a4655216a6b3e",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_386c6124-e3ed-4cab-8223-61ef33179153"
     },
     {
       "id": "lsn_9b5430b7-4d8b-46e4-8634-984b8268e9c6",
       "title": "Java · 공유 번호와 생성 순서를 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-java-static",
-      "revision": "engineer-java-static-4",
-      "sha256": "24254862172a8d1179bf799217e268835381bd5c1ce0ef8c985ddfa1252b5505",
+      "revision": "engineer-java-static-5",
+      "sha256": "8fc50daa2d5906eb5c7060ee5c6d6f6997713013fffbe1a894b4e1a937c81277",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_1b79ae00-24ed-4ce1-bc83-5ee7121d3a93"
     },
     {
       "id": "lsn_afd14971-0537-4632-b4d1-8a5bbf216afe",
       "title": "Java · 호출 규칙과 예외 뒤 순서를 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-java-polymorphism",
-      "revision": "engineer-java-polymorphism-4",
-      "sha256": "22b3e1828c05579759a22b8e5fb79f1cb6b4de23545c9c604d50a2056163d458",
+      "revision": "engineer-java-polymorphism-5",
+      "sha256": "75379c8f375a85ee2676d0f330326dbed944bfe22c40ea30865c8d0dfd3df0e5",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_045de1e3-6968-4517-b056-6ef2e6b13549"
     },
     {
       "id": "lsn_e7b7100f-1c5d-41fb-9683-ab89fcd6e851",
       "title": "Python · 같은 창고 자료를 골라 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-python-values",
-      "revision": "engineer-python-values-5",
-      "sha256": "1fed1a35cb2eeb340144d601f9d063ff0c175acbe4ce8829c814dc4e5a9b65dd",
+      "revision": "engineer-python-values-6",
+      "sha256": "7869a4541d3c7cca7cc494c2fa0a8dc8f87fce7fe92efd63769197a8a0ef491f",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_db97db2a-0c84-44da-947f-0cce41a180db"
     },
     {
       "id": "lsn_5a71aebc-42ab-433c-8ecd-3dd07bd65aca",
       "title": "Python · 같은 재고 함수의 호출을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-python-calls",
-      "revision": "engineer-python-calls-4",
-      "sha256": "8787ca13901a863acedd6556fd52f81f7be12e588e78fef245a81ed69ece46fc",
+      "revision": "engineer-python-calls-5",
+      "sha256": "7bb44d80ef9e7ada91490c1d792e0916077d3f0503cc7a27a07b3f7fb4155614",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_a474fa8a-a0c0-4eaa-99c8-31d2a5b908cf"
     },
     {
       "id": "lsn_c84b0351-bae9-4d7c-8842-d19c0ee17ad3",
       "title": "DB · 같은 물건을 표와 키로 구별해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-db-model",
-      "revision": "engineer-db-model-5",
-      "sha256": "c6bc9dd46388e5df5b44339f88605595d584e54201eff3d95bad1f3dc9982f89",
+      "revision": "engineer-db-model-6",
+      "sha256": "54c8f98ed721c0d145ad6293b954ccb4f97d30f6eda414e9f4c3fd6d5cd2f35b",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_73e5ef52-9e58-4426-9b17-b8437b6262ca"
     },
     {
       "id": "lsn_a142c683-a7ac-4a2b-bdd7-5bba73025d25",
       "title": "SQL · 같은 재고의 조건과 연결을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-sql-select",
-      "revision": "engineer-sql-select-5",
-      "sha256": "543b68adcd2228c6c0c01dc25d657ab89df1fdc68ad6c6570e6ee3afed6e552a",
+      "revision": "engineer-sql-select-6",
+      "sha256": "47c9700db053ff9d541c61f0854668afb617b0f605adb6729eef0b32f5ed5388",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_ef3e9f35-932e-48d2-9d3f-6e8ff8368305"
     },
     {
       "id": "lsn_b49b7cce-7355-4126-8d1a-a5ecaf15ee0f",
       "title": "SQL · 같은 재고의 그룹과 순서를 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-sql-group",
-      "revision": "engineer-sql-group-5",
-      "sha256": "659f0c39af57ad899f77489914c02e1ab84db2056437073e391e94ee89e0aff9",
+      "revision": "engineer-sql-group-6",
+      "sha256": "c0d641640207e4d50d0333f24421cdbe58cdda6aa4c063e172455d9598741541",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_5c00ddd4-5de1-497b-85d6-15f8c7989885"
     },
     {
       "id": "lsn_76478536-3007-4c4f-a29a-6cec4d6fe922",
       "title": "SQL · 같은 재고의 변경과 권한을 구별해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-sql-change",
-      "revision": "engineer-sql-change-5",
-      "sha256": "2fdc742d39aed2fbbdfc7496114517dbe93893ad3e53d848ca214a53b82a269a",
+      "revision": "engineer-sql-change-6",
+      "sha256": "45a827f712bff010128d2fd4a15db0b24236f9902063588afb2b12c1dec7ec6f",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_c373e085-db0d-4fab-8d0a-a8e7258d7699"
     },
     {
       "id": "lsn_1e941ee4-b148-4803-98c0-6972c9861f3f",
       "title": "DB · 종속·저장·조회 로직의 역할을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-db-storage",
-      "revision": "engineer-db-storage-5",
-      "sha256": "c64b0b604157d76263e141545c12b13fd6cfc06aaf2f3b77818a8b5c3536131b",
+      "revision": "engineer-db-storage-6",
+      "sha256": "1289d7c27d6f5de399ffa73be2d05fd7b96c794305a66b5deaa5696d9cbca530",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_9d105c9e-0967-4781-9898-a32f4a72ac59"
     },
     {
       "id": "lsn_dcb26919-3303-4042-8595-f9f07bf34ce1",
       "title": "요구사항 · 같은 재고 규칙을 확인해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-requirements",
-      "revision": "engineer-requirements-4",
-      "sha256": "9940e51466a75b2fffb28737aa9a40bf051eb590a3aa7667e6bd3c6ec31fb672",
+      "revision": "engineer-requirements-5",
+      "sha256": "50e928bbdf978dce4ed66fd0302bc9cc078478e445c216118de0ded1f9ba5e47",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_0fb235ea-afe4-4401-9087-c04d884d4fb8"
     },
     {
       "id": "lsn_d69f6e94-f8ac-420e-ab87-f78169be10ed",
       "title": "설계 · 같은 창구의 모델과 패턴을 구별해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-design",
-      "revision": "engineer-design-5",
-      "sha256": "7cbc07e61308e4fbef2b38c4daffc65f1bfc4cba99d9122a723b857e037434d5",
+      "revision": "engineer-design-6",
+      "sha256": "88003937eb3fedbd7314230df0f6aaf0356489f688019c21120150848d087fea",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_154f7326-498e-4759-8140-67bb19c69a35"
     },
     {
       "id": "lsn_71e20ffe-de54-4cc6-b545-eaa28259be89",
       "title": "서버 · 같은 업무의 책임과 실행을 나눠요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-server",
-      "revision": "engineer-server-5",
-      "sha256": "68b1de00032fd9679952581a24a44a344199092911cf943a8c186db0e0308dfd",
+      "revision": "engineer-server-6",
+      "sha256": "010edf4b9249807b167d391660941616e92c8d6f490fac3ce0c4fda11600b841",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_01911fdc-baf2-4b3e-92a6-3444aaf1f152"
     },
     {
       "id": "lsn_2ade8f2e-ad9f-477c-a1ce-d5edd394e54e",
       "title": "연계 · 같은 창고 요청의 약속을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-interfaces",
-      "revision": "engineer-interfaces-5",
-      "sha256": "2201ee3967eadc4623229aab3a819f5c7926585b24819982315de1563e6d78b1",
+      "revision": "engineer-interfaces-6",
+      "sha256": "ca157368750b41a36e97c3e97e63aafcaebd4fe552305ae7ad097466bbd7d35f",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_4a7a35bf-e1df-402e-9d56-9c53914a714f"
     },
     {
       "id": "lsn_718ee299-ad7b-43b7-8c27-9ba53178e769",
       "title": "화면 · 같은 정정 요청을 끝까지 이어 봐요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-ui",
-      "revision": "engineer-ui-3",
-      "sha256": "6bc6a7df71e2e84608de19df54a6ffdfc5a16fb329f4c515665d0a1a1aaf4df5",
+      "revision": "engineer-ui-4",
+      "sha256": "99186802f6c3adfef0df05763f9cea6dbadba78b6d8604c498c631dc418db949",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_1dae794b-7426-4280-8001-5a135fb88242"
     },
     {
       "id": "lsn_ac361fc1-13f0-4380-b6d6-ab657dea41c7",
       "title": "테스트 · 같은 수량 규칙의 반례를 찾아요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-test-cases",
-      "revision": "engineer-test-cases-5",
-      "sha256": "e2663762478c153ccb71aaa52c7486507aca096503e374f962076e23bff55c5b",
+      "revision": "engineer-test-cases-6",
+      "sha256": "edc0c03be519a3847652f7e81203f3f9500ab780060064cfe7e507e4e9ac1193",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_857c59d1-be37-44d1-87fb-1ff207e08415"
     },
     {
       "id": "lsn_079860d4-7cd4-4c54-8289-410ce260bfbb",
       "title": "테스트 · 같은 서비스의 연결과 범위를 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-test-integration",
-      "revision": "engineer-test-integration-5",
-      "sha256": "d21a7c28528d0371d7ffec65583fb78cba6a463b512bec6d0b0786a1043ebe3f",
+      "revision": "engineer-test-integration-6",
+      "sha256": "0870a666c4592346e1b36f515fb8f495443307971de1151e491a949450043c40",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_2b70a79d-3d78-4fbb-b3d0-d4161348c5df"
     },
     {
       "id": "lsn_99e3d923-54b6-4898-9449-49de2d2345d9",
       "title": "보안 · 같은 재고 서비스의 경계를 지켜요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-security",
-      "revision": "engineer-security-5",
-      "sha256": "87b5adfe4b516118fe8fc056e85d3c57ee2e2c8af54571ec2dbd9b6aa6bac34a",
+      "revision": "engineer-security-6",
+      "sha256": "d04b3af583ead5cecd771a7895ef425225e0741ab2ecddf45e79404e51095f9d",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_f46227a0-03c2-45de-a669-e8cc41328e4b"
     },
     {
       "id": "lsn_bf5902ce-aa73-4267-a9d7-7aed3f1db5e2",
       "title": "운영체제 · 같은 작업의 시간과 자원을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-os",
-      "revision": "engineer-os-5",
-      "sha256": "f8c97a3655cb2cf87317fe9ab8be8283b6a831ee0dcbd079b30f6e572b2c5806",
+      "revision": "engineer-os-6",
+      "sha256": "e3525a2ee80f3ee50dbb318b1ce9fea6ed39238560933b15bc655276b2a991a2",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_7890e0b4-4fbe-4227-8b8b-16a903154e97"
     },
     {
       "id": "lsn_31f4e5ad-a83b-4709-a955-7a6c324963db",
       "title": "네트워크 · 같은 창고의 주소와 전송을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-network",
-      "revision": "engineer-network-5",
-      "sha256": "2bec71bed06a1db75469b5d4b0727ef14429f9a40c873a5de54b603a8125df52",
+      "revision": "engineer-network-6",
+      "sha256": "1170f501a33474069259eae6830763a3b2fb90784b72029f14089614badddbc9",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_8514f6bd-9f51-4c34-872d-b69b2be1b559"
     },
     {
       "id": "lsn_3c2fdb99-f119-4ec3-a300-f22008b3234e",
       "title": "배포 · 같은 수정의 출처와 버전을 남겨요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-build",
-      "revision": "engineer-build-5",
-      "sha256": "4a6fb131d39caec208be7629db443e51f0ae9d42eb6772fa06f84fac8973925f",
+      "revision": "engineer-build-6",
+      "sha256": "b54d2039a857ac86309de725a73c89eebd6913e9c3a9078d76a033871bd3afee",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_5dae5ecf-7b32-4d4c-b3c9-c400919a6c11"
     },
     {
       "id": "lsn_48851763-573a-4ad8-a788-449446487ab7",
       "title": "종합 · 같은 재고 보고의 답안을 연결해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-mixed",
-      "revision": "engineer-mixed-5",
-      "sha256": "f46e086fb7edaca13563d674cbecdccb83c06a1f0f8680c80108430c569109a0",
+      "revision": "engineer-mixed-6",
+      "sha256": "8ede75c18dfd76a51a6a89bec6e86ae5e55460bd51d1e2adf23c5e97eb901c0c",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
-      "track": "basic"
+      "track": "basic",
+      "challenge_task": "stp_bcbe58d4-35f4-4f8d-b899-992f20c12b4c"
     }
   ],
   "change_history": [
+    {
+      "at": "2026-10-29T04:54:00Z",
+      "summary": "정보처리기사 실기 모든 수업에 마지막 도전을 더했어요.",
+      "reason": "사용자 요청으로 백엔드 과정의 도전 클리어 방식을 다른 두 과정에도 적용했어요.",
+      "details": [
+        "수업 30개에 앞에서 배운 조건을 함께 적용하는 독립적인 마지막 도전을 새 고유 코드로 더했어요.",
+        "도전만 통과해도 수업을 클리어해요. 문제 진행률은 실제로 통과한 문제만 세요.",
+        "기존 문제와 진도 ID, 예전 버전은 그대로 보존해요."
+      ]
+    },
     {
       "at": "2026-10-27T04:15:12Z",
       "summary": "모든 수업의 첫 해설에 교육목표와 흐름을, 각 문제 해설 앞에 해결할 목표를 안내해요.",
