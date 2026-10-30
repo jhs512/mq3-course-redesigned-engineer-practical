@@ -54,8 +54,8 @@
       "id": "lsn_8d44ada6-23ef-45cf-8fd1-17722c8b5e29",
       "title": "C 함수와 재귀를 따라가요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-functions",
-      "revision": "engineer-c-functions-7",
-      "sha256": "bb94ebf7e9955f18867612812956a4043f329abd7603ec9292dd293a4e91dbcd",
+      "revision": "engineer-c-functions-8",
+      "sha256": "dce0bd8fb0cd76972379431e43ba77f97b795431fe7db461986c75caff182fc0",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
@@ -67,8 +67,8 @@
       "id": "lsn_ecdcead6-85ab-4301-acf9-3bd8f406c8d0",
       "title": "C · 주소와 가리키는 값을 나눠 봐요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-c-pointers",
-      "revision": "engineer-c-pointers-7",
-      "sha256": "74c0033b2f379f602ec7facb9ec16e9f845041263b43459a5f9ba018ffa8d2b1",
+      "revision": "engineer-c-pointers-8",
+      "sha256": "c5356857d8a67385df64c5c3cf3b0299cc5731e54c0068e8eb50b9042343de8b",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
@@ -171,8 +171,8 @@
       "id": "lsn_5a71aebc-42ab-433c-8ecd-3dd07bd65aca",
       "title": "Python · 같은 재고 함수의 호출을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-python-calls",
-      "revision": "engineer-python-calls-7",
-      "sha256": "ce8b94e897304dae755e25f98aa1e63324632f63ac5c1ea0e68f479e4c2d6c3d",
+      "revision": "engineer-python-calls-8",
+      "sha256": "5a3e01281b48b135714887771f7852222ee04ab7f0276246a1d1f0badc8a7fb6",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
@@ -403,6 +403,16 @@
     }
   ],
   "change_history": [
+    {
+      "at": "2026-10-30T12:33:18Z",
+      "summary": "Python·C 함수와 포인터 문제에서도 코드 흐름 보기로 실행을 한 줄씩 따라가요.",
+      "reason": "사용자 요청: 「객관식에서 순수 코딩 문제로」 바꾸고, 2026-10-30 확인에 따라 코드를 읽고 출력값만 적는 빈칸도 직접 코드를 작성·수정·실행하는 문제로 바꿔요. 실제 개념·이론 문제는 그대로 둬요.",
+      "details": [
+        "Python 함수 호출 수업의 여섯 문제에서 코드 흐름 보기를 열 수 있어요. 기본값 목록 공유·함수에 넘긴 목록·클래스 속성·super()·재귀·새 기본값 목록을 채점과 같은 실행으로 따라가요.",
+        "C 함수·포인터 수업의 열 문제에서도 코드 흐름 보기를 열 수 있어요. 채점과 같은 TinyCC 프로그램을 그대로 실행하며 값과 포인터를 따라가요. C는 Windows 앱에서 열려요.",
+        "문제와 채점은 그대로예요. 이 버튼은 새 앱 버전부터 보여요."
+      ]
+    },
     {
       "at": "2026-10-30T05:45:08Z",
       "summary": "코드를 읽고 출력값만 적던 문제도 직접 코드를 고쳐 실행하는 문제로 바꿨어요.",
