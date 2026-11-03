@@ -15,8 +15,8 @@
       "id": "lsn_dcb26919-3303-4042-8595-f9f07bf34ce1",
       "title": "요구사항 · 같은 재고 규칙을 확인해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-requirements",
-      "revision": "engineer-requirements-5-spacing-20261103",
-      "sha256": "ef4720426214de74d9521646c4b1f2cd416415eabaadf92fd9812a77c962eac2",
+      "revision": "engineer-requirements-5-spacing-20261103-todo-20261103",
+      "sha256": "39571f4d4385e86febdcd640ee0835642626d824a7d6df7cda84554da5b37e10",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
@@ -305,8 +305,8 @@
       "id": "lsn_76478536-3007-4c4f-a29a-6cec4d6fe922",
       "title": "SQL · 같은 재고의 변경과 권한을 구별해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-sql-change",
-      "revision": "engineer-sql-change-7-spacing-20261103",
-      "sha256": "b788e59d9a5a9ade00024fe7ca7d36a3de5737f3c4d66eaf4c8c4a795ea2a5a6",
+      "revision": "engineer-sql-change-7-spacing-20261103-todo-20261103",
+      "sha256": "159b62832747bcafd784161049868788054a03c7e295a28cc5af128cf3eb1090",
       "prerequisites": [
         "lsn_a142c683-a7ac-4a2b-bdd7-5bba73025d25"
       ],
@@ -518,8 +518,8 @@
       "id": "lsn_1e941ee4-b148-4803-98c0-6972c9861f3f",
       "title": "DB · 종속·저장·조회 로직의 역할을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-db-storage",
-      "revision": "engineer-db-storage-6-spacing-20261103",
-      "sha256": "ab8facb15935def41012fe3f872d964cc71d316bad375014825823812aa2e6be",
+      "revision": "engineer-db-storage-6-spacing-20261103-todo-20261103",
+      "sha256": "d8e122fff27ccbc7bee63813af319333f4641a64e427ccc886e9c1ca8a6a8e2f",
       "prerequisites": [
         "lsn_b49b7cce-7355-4126-8d1a-a5ecaf15ee0f"
       ],
@@ -576,8 +576,8 @@
       "id": "lsn_bf5902ce-aa73-4267-a9d7-7aed3f1db5e2",
       "title": "운영체제 · 같은 작업의 시간과 자원을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-os",
-      "revision": "engineer-os-8",
-      "sha256": "c5de0c8f647c01272c7ee9967d6dbe205bd1dc1ac1ce6bf97b58f80361b80adc",
+      "revision": "engineer-os-8-todo-20261103",
+      "sha256": "730dc824719d1dfafec99773e568bdcb6ab2b10dc02698365555a2accaa7fafc",
       "prerequisites": [
         "lsn_2a2e8319-d6c7-4cbb-b684-da4f63d9fec2"
       ],
@@ -605,8 +605,8 @@
       "id": "lsn_31f4e5ad-a83b-4709-a955-7a6c324963db",
       "title": "네트워크 · 같은 창고의 주소와 전송을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-network",
-      "revision": "engineer-network-7",
-      "sha256": "809bd6a86a315ecc857ba5c3a25f851d0f3702da17b9da89f2a7a1229361e730",
+      "revision": "engineer-network-7-todo-20261103",
+      "sha256": "0d66e131b46082313bd9db4731b057f09df231edc3363a43637ac0a9f85aa46e",
       "prerequisites": [
         "lsn_2a2e8319-d6c7-4cbb-b684-da4f63d9fec2"
       ],
@@ -648,8 +648,8 @@
       "id": "lsn_718ee299-ad7b-43b7-8c27-9ba53178e769",
       "title": "화면 · 같은 정정 요청을 끝까지 이어 봐요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-ui",
-      "revision": "engineer-ui-4-spacing-20261103",
-      "sha256": "0abe9f061ea668d360b171fc12bdff2ccc1ff2f85ef16bd501a67f8b19015b16",
+      "revision": "engineer-ui-4-spacing-20261103-todo-20261103",
+      "sha256": "3d5a432e2058ebabfefd6864829d09ad4b05ae0062c7c61e6334c96b67e60882",
       "prerequisites": [
         "lsn_dcb26919-3303-4042-8595-f9f07bf34ce1"
       ],
@@ -663,8 +663,8 @@
       "id": "lsn_d69f6e94-f8ac-420e-ab87-f78169be10ed",
       "title": "설계 · 같은 창구의 모델과 패턴을 구별해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-design",
-      "revision": "engineer-design-6-spacing-20261103",
-      "sha256": "0c90f790ea7e9e230d5df7fffe88f543f11e9927ac35f44407c59a82796e4af4",
+      "revision": "engineer-design-6-spacing-20261103-todo-20261103",
+      "sha256": "501ea8fee47dc53314d00e655ff3ba497bb2ad340ca4be78727ced9f00e2970d",
       "prerequisites": [
         "lsn_dcb26919-3303-4042-8595-f9f07bf34ce1"
       ],
@@ -692,8 +692,8 @@
       "id": "lsn_71e20ffe-de54-4cc6-b545-eaa28259be89",
       "title": "서버 · 같은 업무의 책임과 실행을 나눠요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-server",
-      "revision": "engineer-server-6-spacing-20261103",
-      "sha256": "e354d1e8020afcc58f8d89b9dde652fb2fb9eccc451789f9f4174362ccba6c53",
+      "revision": "engineer-server-6-spacing-20261103-todo-20261103",
+      "sha256": "8b2a49ab8dd2c07765ba44aad9e6c385d6dc97b76ad12e179d17c45e736fbd7a",
       "prerequisites": [
         "lsn_d69f6e94-f8ac-420e-ab87-f78169be10ed"
       ],
@@ -721,8 +721,8 @@
       "id": "lsn_2ade8f2e-ad9f-477c-a1ce-d5edd394e54e",
       "title": "연계 · 같은 창고 요청의 약속을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-interfaces",
-      "revision": "engineer-interfaces-6-spacing-20261103",
-      "sha256": "11042cdd0c64dc5f9092608fa1262b2d26bc4b4ddf84d603f5db2587a9913b62",
+      "revision": "engineer-interfaces-6-spacing-20261103-todo-20261103",
+      "sha256": "58f9690a42e842a3545c6a36843a3ed49b72e8d72d401c83b09d4c7b96ce2b16",
       "prerequisites": [
         "lsn_71e20ffe-de54-4cc6-b545-eaa28259be89"
       ],
@@ -751,8 +751,8 @@
       "id": "lsn_ac361fc1-13f0-4380-b6d6-ab657dea41c7",
       "title": "테스트 · 같은 수량 규칙의 반례를 찾아요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-test-cases",
-      "revision": "engineer-test-cases-6-spacing-20261103",
-      "sha256": "7a3fd09f1c8d6f043161170f813ac95b9a74544b6de6d28a8befef0b816d2404",
+      "revision": "engineer-test-cases-6-spacing-20261103-todo-20261103",
+      "sha256": "331b4c0a398bad99d7ed8c4de657dc4ca55ec12cfa56324c72a162a7406ef6e1",
       "prerequisites": [
         "lsn_dcb26919-3303-4042-8595-f9f07bf34ce1"
       ],
@@ -780,8 +780,8 @@
       "id": "lsn_079860d4-7cd4-4c54-8289-410ce260bfbb",
       "title": "테스트 · 같은 서비스의 연결과 범위를 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-test-integration",
-      "revision": "engineer-test-integration-6-spacing-20261103",
-      "sha256": "abff943d5d54c88c6d06e2462bb52154aeba7011594421c39491862427ff6302",
+      "revision": "engineer-test-integration-6-spacing-20261103-todo-20261103",
+      "sha256": "9ef36ed2ce76fc7225b5d3ca4c78c2ce37ac2f7745958c9fbbdfc3690690c0b1",
       "prerequisites": [
         "lsn_ac361fc1-13f0-4380-b6d6-ab657dea41c7",
         "lsn_2ade8f2e-ad9f-477c-a1ce-d5edd394e54e"
@@ -810,8 +810,8 @@
       "id": "lsn_99e3d923-54b6-4898-9449-49de2d2345d9",
       "title": "보안 · 같은 재고 서비스의 경계를 지켜요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-security",
-      "revision": "engineer-security-6",
-      "sha256": "d04b3af583ead5cecd771a7895ef425225e0741ab2ecddf45e79404e51095f9d",
+      "revision": "engineer-security-6-todo-20261103",
+      "sha256": "47e4de2a9d0f25659dae2128b17affd267f1718fbc94ecacbc71b7fbc4206050",
       "prerequisites": [
         "lsn_2ade8f2e-ad9f-477c-a1ce-d5edd394e54e",
         "lsn_a142c683-a7ac-4a2b-bdd7-5bba73025d25"
@@ -855,8 +855,8 @@
       "id": "lsn_3c2fdb99-f119-4ec3-a300-f22008b3234e",
       "title": "배포 · 같은 수정의 출처와 버전을 남겨요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-build",
-      "revision": "engineer-build-6",
-      "sha256": "b54d2039a857ac86309de725a73c89eebd6913e9c3a9078d76a033871bd3afee",
+      "revision": "engineer-build-6-todo-20261103",
+      "sha256": "cc8409b4642f85ce06ee632bc31283756a8ba1b7c795816060f4fe752f72b1fb",
       "prerequisites": [
         "lsn_ac361fc1-13f0-4380-b6d6-ab657dea41c7"
       ],
@@ -884,8 +884,8 @@
       "id": "lsn_48851763-573a-4ad8-a788-449446487ab7",
       "title": "종합 · 같은 재고 보고의 답안을 연결해요",
       "repository": "jhs512/mq3-lesson-redesigned-engineer-mixed",
-      "revision": "engineer-mixed-7",
-      "sha256": "89865bf8f82c7e96e7cb5a5fbe5c231e0e101f986ef37b5dc13f64f064f7bddf",
+      "revision": "engineer-mixed-7-todo-20261103",
+      "sha256": "d0e90fe4f2f4e03089eae55948b65fcb0967bfcd253b4330273534f1957a1deb",
       "prerequisites": [
         "lsn_ecdcead6-85ab-4301-acf9-3bd8f406c8d0",
         "lsn_afd14971-0537-4632-b4d1-8a5bbf216afe",
@@ -902,6 +902,16 @@
     }
   ],
   "change_history": [
+    {
+      "at": "2026-11-03T11:50:20Z",
+      "summary": "문제와 맞지 않는 일반 절차 안내를 정리했어요.",
+      "reason": "보기를 고르거나 답을 적기만 하는 문제에 질문과 어긋나거나 질문을 되풀이하는 할 일이 붙어 있었어요.",
+      "details": [
+        "답만 고르거나 적는 문제는 질문과 보기·답안 칸만 보여요.",
+        "코드 수정 문제 세 개의 할 일을 실제 고칠 내용에 맞췄어요.",
+        "문제 고유 코드와 정답·채점·학습 기록은 유지해요."
+      ]
+    },
     {
       "at": "2026-11-03T10:10:44Z",
       "summary": "수업 문장의 띄어쓰기와 해설 강조 구절을 다듬었어요.",
